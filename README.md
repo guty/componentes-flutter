@@ -20,9 +20,12 @@ These are the components and functions covered:
 - Read a JSON file (local)
 - ListView
 - Cards
+- AlertDialog
 - Icon
 
 ## Credits
 
 - Loader gif (infinity): https://loading.io
 - Sunset beach landscape (Flooder): https://www.goodfon.com/user/flooder/
+- Girl avatar (MDB): https://mdbootstrap.com/img/new/avatars/5.jpg
+- Surf Art Picture, Copyright Heather Brown: https://surfd.com/2013/02/art-life-and-heather-brown
