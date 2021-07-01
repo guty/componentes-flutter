@@ -1,16 +1,23 @@
-# componentes_flutter
+# Componentes de Flutter
 
-A new Flutter project.
+Este es un proyecto cuyo único objetivo es conocer, aprender y practicar Flutter, esto a través del uso de algunos componentes.
 
-## Getting Started
+Estos son los componentes/funcionalidades que se utilizan:
 
-This project is a starting point for a Flutter application.
+- Navegación entre pantallas - Navigator
+- Lectura de un archivo JSON (local)
+- ListView
+- Cards
+- Icon
 
-A few resources to get you started if this is your first Flutter project:
+# Flutter components
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This is a project which main goal is to learn and practice Flutter by implementing some of its components.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+These are the components and functions covered:
+
+- Navigator
+- Read a JSON file (local)
+- ListView
+- Cards
+- Icon
