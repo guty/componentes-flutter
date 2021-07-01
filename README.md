@@ -21,3 +21,8 @@ These are the components and functions covered:
 - ListView
 - Cards
 - Icon
+
+## Credits
+
+- Loader gif (infinity): https://loading.io
+- Sunset beach landscape (Flooder): https://www.goodfon.com/user/flooder/
