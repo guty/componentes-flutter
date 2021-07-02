@@ -23,7 +23,7 @@ class AvatarPage extends StatelessWidget {
           )
         ],
       ),
-      body: Center(
+      body: const Center(
         child: FadeInImage(
             placeholder: AssetImage('assets/Infinity-loading.gif'),
             image: NetworkImage(
